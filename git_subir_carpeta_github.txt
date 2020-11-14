@@ -1,0 +1,12 @@
+ 1649  git init
+ 1650  git add -A\n
+ 1651  git commit -m 'subiendo master en python'\n
+ 1652  git remote add origin remote repository https://github.com/tulcas/master-python\n
+ 1653  git remote add origin remote repository https://github.com/tulcas/master-python.git\n
+ 1654  git remote add origin remote repository URL https://github.com/tulcas/master-python.git\n
+ 1655  git remote add origin remote repository URL
+ 1656  git remote -v
+ 1657  git remote add origin https://github.com/tulcas/master-python.git
+ 1658  git push origin master
+ 1659  git pull origin master --allow-unrelated-histories
+ 1660  git push origin master
